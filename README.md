@@ -1,4 +1,4 @@
-# Sqlalchemy-challenge
+# SQlalchemy-challenge
 
 ## Module 10
 
