@@ -12,6 +12,7 @@ Using Sqlalchemy, Python, and Flask it was done a climate analysis about the Haw
 
 ## Station Analysis
 
+![](https://github.com/Gilaine-UOT/sqlalchemy-challenge/blob/main/Images/Sation%20Analysis.PNG)
 
 
 ## Designing a Climate API
