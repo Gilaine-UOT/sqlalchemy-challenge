@@ -2,7 +2,7 @@
 
 ## Module 10
 
-Using Sqlalchemy, Python, and Flask it was done a climate analysis about the Hawaii area.
+Using Sqlalchemy, Python, and Flask a climate analysis about the Hawaii area.
 
 # Including 
 
